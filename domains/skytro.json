@@ -1,0 +1,19 @@
+{
+  "description": "Skytro_pixl founder of SkyKopf.com",
+  "repo": "https://github.com/Felix-Skytro/.is-a.dev-register",
+  "owner": {
+    "username": "Felix-Skytro"
+  },
+  "record": {
+    "URL": "https://www.skykopf.com",
+    "TXT": "Skytro_pixl-9939-Skytronics_pixl"
+  },
+  "redirect_config": {
+  "custom_paths": {
+    "/github": "https://github.com/Felix-Skytro",
+    "/skykopf": "https://www.skykopf.de",
+    "/me": "https://skytro.de",
+    "/bentwi": "https://bentwi.app"
+  },
+  "redirect_paths": true
+}
